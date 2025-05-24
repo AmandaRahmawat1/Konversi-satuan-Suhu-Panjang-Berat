@@ -3,14 +3,14 @@
 # Mini Proyek - Coding untuk Kakak Tingkat
 
 # Identitas Mahasiswa
- Nama : Amanda Rahmawati Hidayat
- NIM  : 2404332
- Kelas: 2B
+-  Nama : Amanda Rahmawati Hidayat
+-  NIM  : 2404332
+-  Kelas: 2B
  
 # Identitas Kakak Tingkat
- Nama         : Dinda Alya Maghfira
- Angkatan     : 2023
- Program Studi: Pendidikan Sistem dan Teknologi Informasi
+-  Nama         : Dinda Alya Maghfira
+-  Angkatan     : 2023
+-  Program Studi: Pendidikan Sistem dan Teknologi Informasi
  
 # Permintaan Program
 " Membuat konversi satuan Suhu, Panjang dan Berat"
