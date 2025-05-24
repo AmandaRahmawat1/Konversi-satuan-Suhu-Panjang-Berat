@@ -26,18 +26,18 @@
   
 Konsep yang digunakan:
  - Input/output
-  - scanf untuk membaca input dari youser int , float , dan char. ouput yang di keluarkan berupa int , float sesuai permintaan program apa 
+   scanf untuk membaca input dari youser int , float , dan char. ouput yang di keluarkan berupa int , float sesuai permintaan program apa 
     yang ingin di pakai oleh youser
  - Variabel
-   -int digunakan untuk pilihan menu, float digunakan untuk nilai satuan yang ingin dikonversi (bilangan pecahan/desimal),
+   int digunakan untuk pilihan menu, float digunakan untuk nilai satuan yang ingin dikonversi (bilangan pecahan/desimal),
     char untuk pilihan pengguna seperti ( y/n )
  - If-else
-  - Menentukan konversi yang akan di gunakan oleh youser dan memastikan pilihan betul atau salah jika salah akan muncul kata seperti 
+   Menentukan konversi yang akan di gunakan oleh youser dan memastikan pilihan betul atau salah jika salah akan muncul kata seperti 
    "Pilihan tidak valid"
  - Loop (perulangan)
-  - Untuk mengulang program jika youser ingin menggunakannya kembali do while ( y/n )
+   Untuk mengulang program jika youser ingin menggunakannya kembali do while ( y/n )
  - Fungsi
-   - konversi suhu, panjang, berat input pilihan suhu, panjang, berat oupur yang di berikan berupa konversi dari 3 hal tersebut
+    konversi suhu, panjang, berat input pilihan suhu, panjang, berat oupur yang di berikan berupa konversi dari 3 hal tersebut
      main ( fungsi utama untuk memanggil program ) untuk memanggil fungsi dan plihan menu yang di berikan 
   
   
