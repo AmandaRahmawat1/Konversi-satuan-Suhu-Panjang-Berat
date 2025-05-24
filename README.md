@@ -26,7 +26,7 @@
   
 Konsep yang digunakan:
  - Input/output
-   scanf untuk membaca input dari youser int , float , dan char. ouput yang di keluarkan berupa int , float sesuai permintaan programapa 
+   scanf untuk membaca input dari youser int , float , dan char. ouput yang di keluarkan berupa int , float sesuai permintaan program apa 
    yang ingin di pakai oleh youser
  - Variabel
    int digunakan untuk pilihan menu, float digunakan untuk nilai satuan yang ingin dikonversi (bilangan pecahan/desimal),
